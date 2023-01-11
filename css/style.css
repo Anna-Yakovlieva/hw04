@@ -348,7 +348,7 @@ header .container {
 }
 
 .team-soc-link:hover,
-.team-soc-link: :focus {
+.team-soc-link:focus {
   background-color: #404bbf;
   border-radius: 50%;
 }
